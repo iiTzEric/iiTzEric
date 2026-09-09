@@ -1,6 +1,6 @@
 <div style="width:100%;">  
   <img src="iiTzEr1c.jpg"  
-       alt=""  
+       alt="iiTzEric"  
        style="width:100%; height:auto; display:block;">  
 </div>  
 <br>
